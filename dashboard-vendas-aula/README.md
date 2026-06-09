@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # 🧾 Dashboard de Vendas — Power BI
